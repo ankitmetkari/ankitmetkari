@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Metkari</h1>
 <h3 align="center">Aspiring CEH | Pentesting & Red Teaming Enthusiast | Learning to Defend & Attack in CyberSpace</h3>
 
-<img align="right" alt="Cybersecurity" width="400" src="https://imagedelivery.net/9sCnq8t6WEGNay0RAQNdvQ/clc19iqf9016bp6wd8gi8rbuo_1/public">
+<img align="right" alt="Cybersecurity" width="400" src="profile-banner.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ankitmetkari&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmetkari" />
@@ -21,6 +21,12 @@
 
 ---
 
+## 🌐 Portfolio Website
+
+> 🔗 Coming Soon: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
 ## 🛡️ Certifications
 
 - 🎓 **Google Cybersecurity Professional Certificate**
@@ -31,9 +37,8 @@
 
 ## 🏅 Badges & Achievements
 
-<div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2492808" style='border:none;'></iframe>
-</div>
+> 🧩 View my TryHackMe progress: [tryhackme.com/p/Mr.ankit](https://tryhackme.com/p/Mr.ankit)  
+> ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Mr.ankit.png)
 
 ---
 
@@ -45,9 +50,8 @@
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="40" title="Kali Linux" />
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="40" title="Wireshark" />
   <img src="https://img.icons8.com/windows/32/000000/nmap.png" width="40" title="Nmap" />
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-metasploit-hacker-flatart-icons-outline-flatarticons.png" width="40" title="Metasploit" />
-  <img src="https://img.icons8.com/color/48/000000/bash.png" width="40" title="Bash Scripting" />
-  <img src="https://img.icons8.com/ios/50/000000/network-card.png" width="40" title="Network Scanning" />
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/null/external-metasploit-hacker-flatart-icons-outline-flatarticons.png" width="40" title="Metasploit" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/bash.png" width="40" title="Bash Scripting" />
 </p>
 <p>⚙️ I'm currently building proficiency in essential tools used in penetration testing and cybersecurity investigations.</p>
 
@@ -63,9 +67,17 @@
     <img src="https://raw.githubusercontent.com/ritik307/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" height="30" width="40" />
   </a>
   <a href="https://www.credly.com/users/ankit-metkari.c91d0267" target="_blank">
-    <img src="https://img.icons8.com/color/48/credly.png" height="30" width="40" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="30" width="40" />
   </a>
 </p>
+
+<div align="left">
+  <br />
+  <b>LinkedIn Mini Profile:</b><br/>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ankit-metkari-097970256" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-metkari-097970256?trk=profile-badge">Ankit Metkari</a>
+  </div>
+</div>
 
 ---
 
@@ -82,4 +94,3 @@
 <!--
 **ankitmetkari/ankitmetkari** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
