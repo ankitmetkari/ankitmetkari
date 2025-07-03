@@ -13,12 +13,18 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently preparing for the **Certified Ethical Hacker (CEH)** exam
+- 🔭 Currently preparing for the **Certified Ethical Hacker (CEH)** exam  
 - 🛡️ Passionate about **Penetration Testing**, **Red Team Operations**, and **Vulnerability Assessment**
 - 📜 **Certifications:** Google Cybersecurity Certificate | CEH (in progress)
 - 🧠 Dedicated to mastering cybersecurity tools, techniques, and real-world exploit methodologies
 - 🌱 Actively learning **malware analysis**, **OSINT (Open Source Intelligence)**, and **network defense strategies**
 - ⚡ _“Offense is the best defense — until you're caught.”_
+
+---
+
+## 🌐 Portfolio Website
+
+> Coming Soon... [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
@@ -32,8 +38,7 @@
 
 ## 🏅 Badges & Achievements
 
-- 🔓 [TryHackMe Profile](https://tryhackme.com/p/Mr.ankit)  
-  <img src="https://tryhackme-badges.vercel.app/api/badge?user=Mr.ankit" alt="TryHackMe Stats" />
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Mr.ankit.png)](https://tryhackme.com/p/Mr.ankit)
 
 ---
 
@@ -43,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" />
-  <b>Kali Linux</b> &nbsp; <b>Wireshark</b> &nbsp; <b>Nmap</b> &nbsp; <b>Metasploit</b>
+  <strong>Kali Linux</strong> &nbsp; <strong>Wireshark</strong> &nbsp; <strong>Nmap</strong> &nbsp; <strong>Metasploit</strong>
 </p>
 
 🧪 I’m building strong foundations in penetration testing and investigation techniques.
