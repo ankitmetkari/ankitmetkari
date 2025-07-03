@@ -11,33 +11,29 @@
 
 ---
 
-- 🔭 Preparing for **Certified Ethical Hacker (CEH)**
-- 🛡️ Passionate about **Pentesting | Red Teaming | Vulnerability Assessment**
-- 📜 **Certifications:** Google Cybersecurity Certificate, CEH (in progress)
-- 🧠 Continuously learning tools, techniques, and real-world exploits
-- 🌱 Exploring **malware analysis**, **OSINT**, and **network defense**
+## 🚀 About Me
+
+- 🔭 Currently preparing for the **Certified Ethical Hacker (CEH)** exam
+- 🛡️ Passionate about **Penetration Testing**, **Red Team Operations**, and **Vulnerability Assessment**
+- 📜 **Certifications:** Google Cybersecurity Certificate | CEH (in progress)
+- 🧠 Dedicated to mastering cybersecurity tools, techniques, and real-world exploit methodologies
+- 🌱 Actively learning **malware analysis**, **OSINT (Open Source Intelligence)**, and **network defense strategies**
 - ⚡ _“Offense is the best defense — until you're caught.”_
-
----
-
-## 🌐 Portfolio Website
-
-> Coming Soon... [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
 ## 🛡️ Certifications
 
-- ✅ **Google Cybersecurity Certificate**
+- ✅ **Google Cybersecurity Certificate**  
 - 🔐 **Certified Ethical Hacker (in progress)**
-- 📂 See more on [Credly](https://www.credly.com/users/ankit-metkari.c91d0267)
+- 📂 [See more on Credly](https://www.credly.com/users/ankit-metkari.c91d0267)
 
 ---
 
 ## 🏅 Badges & Achievements
 
 - 🔓 [TryHackMe Profile](https://tryhackme.com/p/Mr.ankit)  
-![TryHackMe Stats](https://tryhackme-badges.vercel.app/api/badge?user=Mr.ankit)
+  <img src="https://tryhackme-badges.vercel.app/api/badge?user=Mr.ankit" alt="TryHackMe Stats" />
 
 ---
 
@@ -46,11 +42,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
-  <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/wireshark.png" title="Wireshark" width="40"/>
-  <img src="https://img.icons8.com/nolan/64/nmap.png" title="Nmap" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/bash.png" title="Bash" width="40"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-metasploit-hacker-flatart-icons-outline-flatarticons.png" title="Metasploit" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" />
+  <b>Kali Linux</b> &nbsp; <b>Wireshark</b> &nbsp; <b>Nmap</b> &nbsp; <b>Metasploit</b>
 </p>
 
 🧪 I’m building strong foundations in penetration testing and investigation techniques.
